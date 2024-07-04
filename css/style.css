@@ -1,34 +1,197 @@
-@charset "utf-8";
-
-html{
-  font-size:100%;
+/* Font */
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    src: local('Roboto Condensed Regular'), local('RobotoCondensed-Regular'), url("../fonts/RobotoCondensed-Regular.ttf") format('truetype');
 }
 
-body{
-  position:relative;
-  background:#e3e3e3;
-  font-family:Helvetica,Arial,sans-serif;
-  font-weight:normal;
-  font-size:12px;
-  font-size:0.75rem;
-  line-height:1.5;
-  color:#4B4B4D;
-  padding:0;margin:0;
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
-a
+/* Body */
+body
 {
-  color:#0075b5;
-  text-decoration:none;
+    font-family: Roboto Condensed;
+    font-size:1em;
+    background-color: white;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    min-width: 960px;
+}
+
+/* Banner at the top */
+div.banner {
+    font-size:1em;
+    text-align: center;
+    color: #FFFFFF;
+    background-image: linear-gradient(#0D0E10, #77809C);
+    height: 80px;
+    width: 100%;
+    padding: 0.5em;
+}
+
+/* Header : line containing links to particular pages */
+div.header
+{
+    font-family: Roboto Condensed;
+    color: #FFFFFF;
+    text-align: left;
+    padding: 15px;
+    clear: both;
+    background-color: #77809C;
+    margin-bottom: 1em;
+}
+div.header a
+{
+    font-family: Roboto Condensed;
+    color: #FFFFFF;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+div.header a:hover
+{
+    text-decoration: underline;
+}
+
+/* Text : content of the page */
+div.text
+{
+    font-family: Roboto Condensed;
+    font-size: 1.1em;
+    text-align: justify;
+    padding-left:  2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+    margin: 0px;
+}
+div.text p
+{
+    margin-top: 1em;
+    text-align: justify;
+    text-indent: 1.5em;
+}
+div.text h1
+{
+    font-family: Roboto Condensed;
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #0C224B;
+    text-align: left;
+}
+div.text h2
+{
+    font-family: Roboto Condensed;
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #004E9C;
+}
+div.text h3
+{
+    font-family: Roboto Condensed;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #004E9C;
+}
+
+/* Slide show */
+div.slideshow
+{
+    text-decoration: none;
+    text-align: left;
+    margin: 0px 0px 0px 0px;
+    width: 480px;
+    float: right;
+    position: static;
+    padding: 0px 0px 15px 15px;
+    background-color: #FFFFFF;
+}
+div.caption
+{
+    background-color: #FFFFFF;
+    font-size: 15px;
+    line-height: 125%;
+    text-align: justify;
+    padding: 5px 5px 5px 5px;
+    height: 100px
+}
+
+/* Footer : contact and legal notice at the bottom of the page */
+div.footer
+{
+    font-family: Roboto Condensed;
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: left;
+    background-color: #FFFFFF;
+    padding-left: 2.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-top: 0em;
+    clear: both;
+    padding-right: 0.5em;
+    color: #000000;
+}
+
+span.link_pdf
+{
+    font-family: Roboto Condensed;
+    color: #FFFFFF;
+    background-color: #FF4040;
+}
+
+span.link_pdf:hover
+{
+    background-color: #CF1010;
+}
+
+span.link_web
+{
+    font-family: Roboto Condensed;
+    color: #FFFFFF;
+    background-color: #4080FF;
+}
+
+span.link_web:hover
+{
+    background-color: #1060CF;
+}
+
+span.link_dial
+{
+    font-family: Roboto Condensed;
+    color: #FFFFFF;
+    background-color: #40C040;
+}
+
+span.link_dial:hover
+{
+    background-color: #109010;
+}
+
+span.link_year
+{
+    font-family: Roboto Condensed;
+    color: #FFFFFF;
+    background-color: #74BFD7;
+}
+
+span.link_year:hover
+{
+    background-color: #529DB5;
+}
+
+/* Miscellaneous */
+a:link,a:visited,a:active
+{
+    text-decoration: underline;
+    color: #1684EA;
 }
 a:hover
 {
-  text-decoration:underline;
-}
-
-img
-{
-  max-width:100%;
-  height:auto;
+    text-decoration: underline;
+    color: #2244FF;
 }
 
