@@ -27,7 +27,7 @@ div.banner {
     font-size:1em;
     text-align: center;
     color: #FFFFFF;
-    background-image: linear-gradient(#0D0E10, #77809C);
+    background-image: linear-gradient(#010309, #2266FF);
     height: 80px;
     width: 100%;
     padding: 0.5em;
@@ -41,7 +41,7 @@ div.header
     text-align: left;
     padding: 15px;
     clear: both;
-    background-color: #77809C;
+    background-color: #2266FF;
     margin-bottom: 1em;
 }
 div.header a
@@ -78,7 +78,7 @@ div.text h1
     font-family: Roboto Condensed;
     font-size: 1.6em;
     font-weight: bold;
-    color: #0C224B;
+    color: #010309;
     text-align: left;
 }
 div.text h2
@@ -86,7 +86,7 @@ div.text h2
     font-family: Roboto Condensed;
     font-size: 1.4em;
     font-weight: bold;
-    color: #004E9C;
+    color: #2266FF;
 }
 div.text h3
 {
