@@ -30,6 +30,26 @@ div.banner {
     height: 350px;
     width: 100%;
 }
+@media (max-width:1456px) {
+    div.banner {
+        height: 400px;
+    }
+} 
+@media (max-width:1359px) {
+    div.banner {
+        height: 350px;
+    }
+} 
+@media (max-width:1162px) {
+    div.banner {
+        height: 300px;
+    }
+} 
+@media (max-width:965px) {
+    div.banner {
+        height: 250px;
+    }
+} 
 @media (max-width:768px) {
     div.banner {
         height: 200px;
