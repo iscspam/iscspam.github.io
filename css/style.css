@@ -30,13 +30,18 @@ div.banner {
     height: 350px;
     width: 100%;
 }
+@media (max-width:768px) {
+    div.banner {
+        height: 200px;
+    }
+} 
 
 /* Header : line containing links to particular pages */
 div.header
 {
     font-family: Roboto Condensed;
     color: #FFFFFF;
-    font-size: 115%;
+    font-size: 120%;
     text-align: left;
     padding: 15px;
     clear: both;
@@ -44,6 +49,11 @@ div.header
     margin-bottom: 1em;
     width: 100%;
 }
+@media (max-width:768px) {
+    div.header {
+        font-size: 110%;
+    }
+} 
 div.header a
 {
     font-family: Roboto Condensed;
