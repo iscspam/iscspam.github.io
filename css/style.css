@@ -27,7 +27,7 @@ div.banner {
     text-align: center;
     color: #FFFFFF;
     background-color: #2266FF;
-    height: 350px;
+    height: 10%;
     width: 100%;
 }
 
@@ -36,7 +36,7 @@ div.header
 {
     font-family: Roboto Condensed;
     color: #FFFFFF;
-    font-size: 115%;
+    font-size: 120%;
     text-align: left;
     padding: 15px;
     clear: both;
