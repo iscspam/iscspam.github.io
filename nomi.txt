@@ -1,0 +1,170 @@
+Andrew Fowler 
+Microsoft Research AI for Science
+
+Silvana Botti
+Ruhr Universität Bochum, Germany
+
+Janine George
+BAM & University of Jena, Germany
+
+Yong Xu
+Tsinghua University, China
+
+Yousung Jun
+Seoul National University, South Korea
+
+Bin Xu
+Soochow University, China
+
+Maria Clelia Righi
+Universita' di Bologna, Italy
+
+Myrta Grüning
+Queen's University Belfast, UK
+
+Zeila Zanolli
+Utrecht University, Netherlands
+
+Ariadni Boziki
+University of Luxemburg, Luxemburg
+
+Gilles Frapper (online)
+University of Poitiers
+
+Romain Gautier
+Institut des Matériaux de Nantes Jean Rouxel, France
+
+Zhe Liu
+Northwestern Polytechnical University, Xi'an, China
+
+Yi Wang
+Northwestern Polytechnical University, Xi'an, China
+
+Zhijun Wang
+Northwestern Polytechnical University, Xi'an, China
+
+Zhiyao Duan
+Northwestern Polytechnical University, Xi'an, China
+
+Junjie Wang
+Northwestern Polytechnical University, Xi'an, China
+
+Xue Ma 
+Soochow University, China
+
+Matthieu Verstraete
+University of Liège, Belgium
+
+Giuliana Materzanini
+Université catholique de Louvain, Belgium
+
+Gian-Marco Rignanese
+Université catholique de Louvain, Belgium
+
+Wei Chen
+Université catholique de Louvain, Belgium
+
+Xavier Gonze
+Université catholique de Louvain, Belgium
+
+Hao Wu
+Université catholique de Louvain, Belgium
+
+Claudio Quarti
+Université de Mons, Belgium
+
+Samuel Poncé
+Université catholique de Louvain, Belgium
+
+Junwen Yin
+Université catholique de Louvain, Belgium
+
+Jaemo Lim
+Université catholique de Louvain, Belgium
+
+Gabriel Taillandier
+Matgenix, Belgium
+
+Guillaume Brunin
+Matgenix, Belgium
+
+David Waroquiers
+Matgenix, Belgium
+
+Victor Trinquet
+Université catholique de Louvain, Belgium
+
+Luc Henrard
+Université de Namur, Belgium
+
+Sayandeep Ghosh
+Université de Mons, Belgium
+
+Ao Wang
+Université catholique de Louvain, Belgium
+
+Stephan von Malottki
+Université catholique de Louvain, Belgium
+
+Jérôme Müller
+Université de Namur, Belgium
+
+Xiyue Cheng
+Université catholique de Louvain, Belgium
+
+Ali Ghojavand
+University of Antwerpen, Belgium
+
+Jean-Christophe Charlier
+Université catholique de Louvain, Belgium
+
+Mohammad Bakhsh
+Université catholique de Louvain, Belgium
+
+Ana Pedro Fontes
+Université catholique de Louvain, Belgium
+
+Haochen Yu
+Université catholique de Louvain, Belgium
+
+Yiming Zhang
+Université catholique de Louvain, Belgium
+
+Alvaro Carrasco Alvarez
+Université catholique de Louvain, Belgium
+
+Anton Charkin-Gorbulin
+Université de Mons, Belgium
+
+Elham Dehghanpisheh
+Université catholique de Louvain, Belgium
+
+Tathagata Biswas
+Université catholique de Louvain, Belgium
+
+Matteo Giantomassi
+Université catholique de Louvain, Belgium
+
+Marie Rose Youbi Kemmogne
+Université catholique de Louvain, Belgium
+
+Simon Dubois
+Université catholique de Louvain, Belgium
+
+Arsalan Akhtar
+Université catholique de Louvain, Belgium
+
+Weiguo Jing
+Université catholique de Louvain, Belgium
+
+Pierre-Paul De Breuck
+Ruhr Universität Bochum, Germany
+
+Enrico Marazzi
+Université catholique de Louvain, Belgium
+
+Julien Bouquiaux
+Université catholique de Louvain, Belgium
+
+Matthew Evans
+Université catholique de Louvain, Belgium
